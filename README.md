@@ -96,6 +96,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions, feedback, or collaborations, feel free to reach out:
-**Email:** [bayan.jess998@gmail.com]
+
+**Email:** bayan.jess998@gmail.com
+
 **GitHub:** yona158
 
