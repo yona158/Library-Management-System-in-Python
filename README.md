@@ -3,11 +3,11 @@ A **command-line interface (CLI)** based Library Management System built using P
 
 ## Features  
 ### Book Management
-**Add Books:** Add new books to the library by providing details like ID, title, author, and quantity.
-**Remove Books:** Remove books from the library using their unique ID.
-**Search Books:** Search for books by title or author (case-insensitive).
-**Update Quantity:** Add more copies of an existing book to the library.
-**Check Availability:** View whether a book is available for borrowing.
+**- Add Books:** Add new books to the library by providing details like ID, title, author, and quantity.
+**- Remove Books:** Remove books from the library using their unique ID.
+**- Search Books:** Search for books by title or author (case-insensitive).
+**- Update Quantity:** Add more copies of an existing book to the library.
+**- Check Availability:** View whether a book is available for borrowing.
 
 ### Member Management
 **Add Members:** Register new members with a name and unique member ID.
