@@ -27,11 +27,11 @@ The system is built using **object-oriented programming (OOP)** principles, maki
 - Represents a book with attributes like id, title, author, and quantity.
 - Includes methods like is_available() to check if a book is in stock.
 
-**2-Member Class:**
+**2- Member Class:**
 - Represents a library member with attributes like name, member_id, and books_borrowed_by_member.
 - Includes methods to list all books borrowed by the member.
 
-**3-Library Class:**
+**3- Library Class:**
 - Manages the collection of books and members.
 - Handles operations like adding/removing books, borrowing/returning books, and generating reports.
 
@@ -39,13 +39,19 @@ The **CLI** provides an interactive menu for users to perform these operations e
 
 ## Installation
 1-Clone the repository:
-```git clone https://github.com/your-username/library-management-system.git```
+```
+git clone https://github.com/your-username/library-management-system.git
+```
 
 2-Navigate to the project directory:
-```cd library-management-system```
+```
+cd library-management-system
+```
 
 3-Run the program:
-```python main.py```
+```
+python main.py
+```
 
 ## Usage
 ### Main Menu
